@@ -2,8 +2,11 @@
 ## Status 
 Proposed
  ## Context 
-We need maintenance of expired items from smart fridges. 
+It is important NFR that the business is safe for customers to use. It would not reflect well on the company if a customer bought a meal that was out of date.  A meal that is expired should not be able to be purchased. 
+
 ## Decision 
-The person delivering meals at smart fridges will pick expired items & then do the charity or bin it.
+The distributor that delivers meals to points of sale will remove expired items.  There is an opportunity here for the distributor to donate the expired meals to charity.
+
 ## Consequences
-The chances of having more waste if the meals are not sold but that can be optimised using machine learning implementation mentioned in one of the other ADR.
+Our system does not need to handle the expiry dates of meals, this will be handled entirely by the distributor.'
+There is a machine learning opportunity here to reduce wastage (see ADR012)

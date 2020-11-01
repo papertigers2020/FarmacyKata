@@ -16,3 +16,4 @@ Adding this functionality would also have meant telling the kitchen for the cust
 ## Consequences
 This decision will make it easier for kitchens to control the inventory that it provides and effectively removes a workflow from the overall system.
 It also means that customers will be restricted to buying only what is already available in their locale.
+

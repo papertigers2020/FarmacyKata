@@ -9,7 +9,9 @@ If a meal is not available at a Point of Sale (kiosk, smart fridge etc), can a c
 ## Decision
 This functionality is not supported for now because of the complexity it will add to the flow we already have. 
 
-Adding this functionality would have meant telling the kitchen for the customers' locale that it needs to create the meal for a specific location. This causes complexity because it would take away some of the control a kitchen has over the meals that it produces. It would also mean that the application would need to understand the capability of a kitchen to produce that meal before allowing a customer to preorder it.
+From researching the smart fridge capabilities it does not appear to be possible to put an item in a fridge for a specific customer to collect (eg. in the style of an Amazon Locker) as the shelves of the fridge are open and any walk up customer could purchase the item by removing it from the fridge before the customer who placed the order could collect it.
+
+Adding this functionality would also have meant telling the kitchen for the customers' locale that it needs to create the meal for a specific location. This causes complexity because it would take away some of the control a kitchen has over the meals that it produces. It would also mean that the application would need to understand the capability of a kitchen to produce that meal before allowing a customer to preorder it.
 
 ## Consequences
 This decision will make it easier for kitchens to control the inventory that it provides and effectively removes a workflow from the overall system.

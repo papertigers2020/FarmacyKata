@@ -14,3 +14,5 @@ We do not directly communicate with the smart fridges; it is done via an API tha
 ## Consequences
 We dont need to handle purchases in the system, that will all be handled by the external systems. 
 This will make it easier to design a flow that prevents customers from buying something and then finding it has been removed by another customer when they reach the POS.
+
+Because we are not handling payments in an app we don't need to be concerned about any percentages that we might have otherwise owed app store operators, such as Apple and Google.

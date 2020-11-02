@@ -1,7 +1,7 @@
 # How will we handle customers rating meals?
 
 ## Status
-Proposed
+Accepted
 
 ## Context
 A requirement is to allow customers to rate meals. This should only be possible if the customer has actually purchased the meal they are rating.

@@ -1,7 +1,7 @@
-# Will we support delivery to subscribers homes of meals?
+# Will we support delivery of meals to subscribers homes?
 
 ## Status
-Proposed
+Accepted
 
 ## Context
 It was mentioned in the brief that there is a desire to let subscribers get meals delivered to their homes.

@@ -19,3 +19,5 @@ There should be SEO benefits.
 We do not have to build both an iOS and Android version of the app.
 
 We do not have to rely on Apple and Google Playstores.
+
+Maintenance will be easier.

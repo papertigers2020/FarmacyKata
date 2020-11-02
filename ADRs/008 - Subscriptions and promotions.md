@@ -1,7 +1,7 @@
 # How will we handle subscriptions and promotions in the system?
 
 ## Status
-Proposed
+Accepted
 
 ## Context
 A requirement is to support coupons and promotional pricing and also allow customers to buy a subscription that will mean they can get regular meals.
@@ -12,7 +12,11 @@ Both subscriptions and coupons/promotions will be handled by issuing pre-paid ca
 
 ## Consequences
 We will need to assess 3rd party providers of prepaid cards and choose one.
-There will be development required to integrate our website and app with the 3rd party
+
+There will be development required to integrate our website and app with the 3rd party.
+
 We can assume that the distribution and management of these cards will be handled outside of our system.
+
 We will need to handle the linking of a customer account to a pre-paid card.
+
 We may need to review this if we learn about other mechanisms we can use with the points of sale.

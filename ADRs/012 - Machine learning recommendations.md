@@ -1,7 +1,7 @@
 # Will we use Machine Learning to improve the business?   
 
 ## Status  
-Proposed  
+Accepted  
  
 ## Context  
 One of the requirements is related to recommending various meal options to the user.  

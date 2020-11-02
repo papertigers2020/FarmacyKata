@@ -16,6 +16,8 @@ We will not allow users to search for meals near them via SMS message.
 ## Consequences
 We will need to assess 3rd party SMS service providers to choose one with which to integrate.
 
+There will be a cost associated with using any 3rd party service.
+
 Work will be required to periodically download our customer records and upload them (just the data needed) to the 3rd party so we can set up marketing SMS messages and target them at specific groups of users.
 
 We will need to investigate the additional functionality not currently supported in the future.

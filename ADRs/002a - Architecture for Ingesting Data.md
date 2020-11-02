@@ -1,5 +1,5 @@
 
-# ADR 2a. Architecture for Ingesting Data
+# Architecture for Ingesting Data
 
 ## Status
 

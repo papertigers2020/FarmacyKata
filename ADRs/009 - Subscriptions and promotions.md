@@ -13,6 +13,8 @@ Both subscriptions and coupons/promotions will be handled by issuing pre-paid ca
 ## Consequences
 We will need to assess 3rd party providers of prepaid cards and choose one.
 
+There will be a cost associated with using any 3rd party service.
+
 There will be development required to integrate our website and app with the 3rd party.
 
 We can assume that the distribution and management of these cards will be handled outside of our system.

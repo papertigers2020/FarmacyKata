@@ -1,7 +1,7 @@
 # How will we apply user preferences to searches?
 
 ## Status
-Proposed
+Accepted
 
 ## Context
 Customers using the website or mobile app will be able to set their preferences about the types of meal they want.  These could be things like "Good for Diabetes" or "Low in fat".  

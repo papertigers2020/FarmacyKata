@@ -14,6 +14,7 @@ This is our submission to the O'Reilly Architecture Kata November 2020
 
 * Brief: https://docs.google.com/document/d/1SML3n4JbpZV2PSLRpjaCvBvyUMVsFwlqAQF3VKd_oPU/edit
 * Session Recording: https://learning.oreilly.com/live-training/courses/architectural-katas/0636920458463/
+* Session Transcript: https://docs.google.com/document/d/1_KAraAMwbcKEE-AIkDO4s6n6AqK3byEH5bogQ_tr4l0/edit
 * Smart Fridges: https://bytetechnology.co/
 * Toast PoS: https://pos.toasttab.com/
 * ChefTec: https://www.cheftec.com/

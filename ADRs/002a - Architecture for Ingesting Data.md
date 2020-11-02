@@ -3,7 +3,7 @@
 
 ## Status
 
-Proposed
+Accepted
 
 ## Context
 
@@ -29,7 +29,7 @@ to integrate new readers and processors. Taking into account the business case t
 evolution is expected.
 
 The asynchronous event based architecture will provide fault tolerance critical functionality
-of ingesting data. This solution will escalate in order to support an increased number of devices
+of ingesting data. This solution will scale in order to support an increased number of devices
 and customers and events, providing elasticity as well for coping with peaks of meals purchases and operation.
 
 This solution is much more complex than a simple synchronous request based architecture and typically

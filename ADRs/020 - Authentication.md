@@ -1,7 +1,7 @@
 # How will we handle authentication of users?
 
 ## Status
-Proposed
+Accepted
 
 ## Context
 We need to authenticate users of the website and mobile app when they want to login.   
@@ -9,7 +9,11 @@ We need to authenticate users of the website and mobile app when they want to lo
 ## Decision
 We will use a 3rd party OpenID provider to enable this.  There are many providers such as Auth0 who provide this mechanism.
 
+We will not support the ability to login as a guest user - all users of the website/app will need to create an account.
+
 ## Consequences
 We will need to assess the 3rd party providers and choose one.
+
 There will be work to integrate our website and app with the provider.
+
 We will need to link the OpenID user with the users in our customer database.

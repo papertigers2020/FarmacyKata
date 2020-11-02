@@ -1,7 +1,7 @@
 # Do we support the preordering of meals not presently at a POS?
 
 ## Status
-Proposed
+Accepted
 
 ## Context
 If a meal is not available at a Point of Sale (kiosk, smart fridge etc), can a customer preorder a meal to be delivered to that point of sale at a later time?

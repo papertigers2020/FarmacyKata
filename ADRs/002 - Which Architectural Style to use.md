@@ -1,7 +1,7 @@
 # Which Architectural Style to use
 
 ## Status
-Proposed
+Accepted
 
 ## Context
 We need to select an architectural style for the system

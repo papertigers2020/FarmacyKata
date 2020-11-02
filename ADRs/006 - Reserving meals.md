@@ -1,7 +1,7 @@
 # Will customers be able to buy/reserve a meal through the website/app?
 
 ## Status
-Proposed
+Accepted
 
 ## Context
 When a customer is looking at the local inventory of meals, can they buy/reserve a meal, thereby blocking others from purchasing it?

@@ -1,7 +1,7 @@
 # How do we make progress quickly
 
 ## Status
-Proposed
+Accepted
 
 ## Context
 The brief does not cover everything we need to know to design the system.

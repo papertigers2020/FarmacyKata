@@ -1,7 +1,7 @@
 # Credit/debit card details are our only unique identifiers for all customers
 
 ## Status
-Proposed
+Accepted
 
 ## Context
 We need to understand which information that we might be able to use to identify customers and their purchase histories, preferences etc

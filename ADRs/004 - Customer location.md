@@ -1,7 +1,7 @@
 #  How will a customer only be shown meals that are available near to their location?
 
 ## Status
-Proposed
+Accepted
 
 ## Context
 When a customer of the application signs up or logs into their app, we need to understand what meals we can present to them as available. Therefore we need to know whether users are allocated a locale that consists of the kitchen and related POS, whether they can set this themselves and whether they can change this locale.  

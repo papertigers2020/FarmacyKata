@@ -2,7 +2,7 @@
 
 Team: PaperTigers
 
-This is our submission to the O'reilly Architecture Kata November 2020 
+This is our submission to the O'Reilly Architecture Kata November 2020 
 
 # Folders
 

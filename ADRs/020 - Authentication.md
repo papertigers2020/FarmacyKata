@@ -12,6 +12,8 @@ We will use a 3rd party OpenID provider to enable this.  There are many provider
 ## Consequences
 We will need to assess the 3rd party providers and choose one.
 
+There will be a cost associated with using any 3rd party service.
+
 There will be work to integrate our website and app with the provider.
 
 We will need to link the OpenID user with the users in our customer database.

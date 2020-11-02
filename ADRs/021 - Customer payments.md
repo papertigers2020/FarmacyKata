@@ -1,7 +1,7 @@
 # How do we handle payments from customers?
 
 ## Status
-Superceded by ADR 007
+Superceded by ADR008
 
 ## Context
 We need to take payment for meals and subscriptions
